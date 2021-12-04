@@ -1,12 +1,12 @@
 pyrogram
 tgcrypto
-py-tgcalls
+py-tgcalls==0.8.1rc1
 python-dotenv
 requests
 aiohttp
 aiofiles
 asyncio
-youtube-search
+youtube-search-python
 pillow
 future
 psutil
