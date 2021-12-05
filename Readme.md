@@ -8,10 +8,10 @@
 ![GitHub](https://img.shields.io/github/license/TeamDeeCode/DeCoDeMusic) 
 # [𝗗𝗲𝗖𝗼𝗱𝗲 𝗠𝘂𝘀𝗶𝗰](https://t.me/DeCodeMusicBot) 
 
-## 💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/DeCodeSupport)
+## 💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/SpotifySupport_id)
 
-[![DeCode](https://img.shields.io/badge/DeCode%20-Support%20-blue)](https://t.me/DeCodeSupport)
-[![DeCode](https://img.shields.io/badge/DeCode%20-Updates%20-blue)](https://t.me/DeeCodeBots)
+[![Spotify](https://img.shields.io/badge/DeCode%20-Support%20-blue)](https://t.me/SpotifySupport_id)
+[![Spotify](https://img.shields.io/badge/DeCode%20-Updates%20-blue)](https://t.me/SpotifyBotProject)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
@@ -37,5 +37,5 @@
 
 ## DEPLOY ON HEROKU 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamDeeCode/DeCoDeMusic"><img src="https://img.shields.io/badge/DECODE-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/asmirandaandah/"><img src="https://img.shields.io/badge/DECODE-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
 
