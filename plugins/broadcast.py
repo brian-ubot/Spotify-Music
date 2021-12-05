@@ -1,4 +1,4 @@
-#PoweredbyDecode
+@SpotifySupport_id
 
 import asyncio
 
