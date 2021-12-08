@@ -350,9 +350,9 @@ async def play(_, message: Message):
                 ]
             )
             return
-        requested_by = message.from_user.first_name
+        requested_by message.from_user.first_name
         await generate_cover(requested_by, title, views, duration, thumbnail)
-        file_path = await converter.convert(youtube.download(url))
+        file_path await converter.convert(youtube.download(url))
     else:
         if len(message.command) < 2:
             return await lel.edit(
