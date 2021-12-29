@@ -1,9 +1,9 @@
 {
-  "name": "DeCodeMusic",
+  "name": "Spotify-Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "logo": "https://telegra.ph/file/21e8e309addc276362496.jpg",
-  "repository": "https://github.com/TeamDeeCode/DeCoDeMusic",
+  "repository": "https://github.com/KaisenXXD/Spotify-Music",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
