@@ -31,6 +31,14 @@
       "description": "Your heroku appname",
       "required": true
     },
+    "DB_URL": {
+      "description": "put mongodb url",
+      "required": true
+    },
+    "DB_NAME": {
+      "description": "u can put my example 'my'",
+      "required": true
+    },
     "API_HASH": {
       "description": "App hash from my.telegram.org/apps",
       "required": true
