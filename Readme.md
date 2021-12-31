@@ -76,3 +76,5 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KaisenXXD/Spotify-Music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 
+### Support & Updates 🎑
+<a href="https://t.me/SpotifySupport_id"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SpotifyBotProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
