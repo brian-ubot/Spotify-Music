@@ -35,7 +35,7 @@
 
 ## 💡 How To Host ❓️
 
-## DEPLOY ON HEROKU 🚀
+## Heroku Deployment <img src="./ImageFont/Kenpurple.gif" width="40px">
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KaisenXXD/Spotify-Music"><img src="https://img.shields.io/badge/SPOTIFY-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="400"heigh="8000" /></a></p>
 
