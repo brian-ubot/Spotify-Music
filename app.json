@@ -1,7 +1,7 @@
 {
-    "name": "ProMusic",
-    "logo": "https://telegra.ph/file/95c333a0e464b4ee1228f.jpg",
-    "description": "Pro Music allow you to stream music trought the telegram voice chat feature.",
+    "name": "SpotifyMusic",
+    "logo": "https://telegra.ph/file/a7f36b530a39aa7cf5c45.jpg",
+    "description": "Spotify Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
         "music", 
         "voice chat", 
@@ -56,12 +56,12 @@
         "OWNER_NAME": {
             "description": "fill with your telegram username without @",
             "required": false,
-            "value": "BrayDenXD"
+            "value": "KaisenXXD"
         },
         "ALIVE_NAME": {
             "description": "fill with the nickname of your telegram account",
             "required": false,
-            "value": "Sammy"
+            "value": "KaisenXXD"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -83,12 +83,12 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel, fill the channel username here without @",
             "required": false,
-            "value": "DeeCodeBots"
+            "value": "SpotifyBotProject"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, fill the group username here without @",
             "required": false,
-            "value": "DeCodeSupport"
+            "value": "SpotifySupport_id"
         }
     },
     "addons": [],
