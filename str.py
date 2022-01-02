@@ -1,6 +1,3 @@
-#modified by @piroXpower  
-#copyright to © @piroXpower
-
 import asyncio
 
 from pyrogram import Client
