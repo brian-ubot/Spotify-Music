@@ -1,12 +1,16 @@
 {
-  "name": "Spotify-Music",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
-  "keywords": ["music", "voicechat", "telegram"],
-  "logo": "https://telegra.ph/file/366f0ad971d09cf35f72f.jpg",
-  "repository": "https://github.com/KaisenXXD/Spotify-Music",
-  "stack": "container",
-  "env": {
-     "SESSION_NAME": {
+    "name": "Spotify-Music",
+    "logo": "https://telegra.ph/file/79f962363d9708b49779d.jpg",
+    "description": "Pro Music allow you to stream music trought the telegram voice chat feature.",
+    "keywords": [
+        "music", 
+        "voice chat", 
+        "telegram"
+    ],
+    "repository": "https://github.com/KaisenXXD/Spotify-Music",
+    "stack": "container",
+    "env": {
+        "SESSION_NAME": {
             "description": "fill with the pyrogram session string",
             "required": true
         },
