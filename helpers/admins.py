@@ -1,9 +1,9 @@
-import DeCoDe.cache.admins
+import SpotifyMusic.cache.admins
 from typing import List
 
 from pyrogram.types import Chat
-from DeCoDe.cache.admins import get as gett
-from DeCoDe.cache.admins import set
+from SpotifyMusic.cache.admins import get as gett
+from SpotifyMusic.cache.admins import set
 
 
 async def get_administrators(chat: Chat) -> List[int]:
