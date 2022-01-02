@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/KaisenXXD/Spotify-Music",
+    "repository": "https://github.com/BrayDanXD/ProMusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
